@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="animsettings" type="JSON" />
       <mapping ext="pyc" type="PLAIN_TEXT" />
-      <mapping ext="chrparams" type="PLAIN_TEXT" />
       <mapping ext="cgf" type="PLAIN_TEXT" />
       <mapping ext="hda" type="PLAIN_TEXT" />
       <mapping ext="i_caf" type="PLAIN_TEXT" />
