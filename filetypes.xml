@@ -6,6 +6,7 @@
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping ext="cgf" type="PLAIN_TEXT" />
       <mapping ext="hda" type="PLAIN_TEXT" />
+      <mapping ext="pkr" type="PLAIN_TEXT" />
       <mapping ext="i_caf" type="PLAIN_TEXT" />
       <mapping ext="chr" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
